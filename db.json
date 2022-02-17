@@ -1,0 +1,55 @@
+{
+
+"Shop" : [
+{
+    "id"        : 1,
+    "brand"     : [
+        {"id"        : 1,
+        "name"      : "Hero"},
+        {"id"        : 2,
+        "name"      : "TVS"},
+        {"id"        : 3,
+        "name"      : "Palscer"},
+        {"id"        : 4,
+        "name"      : "Padaro"},
+        {"id"        : 5,
+        "name"      : "Hunk"},
+        {"id"        : 6,
+        "name"      : "Fzs"},
+        {"id"        : 7,
+        "name"      : "Barzer"}
+
+        ],
+        "cetagory"      :[
+
+            { "id"       : 1,
+             "name"     : "100CC"
+            },
+            { "id"       : 2,
+             "name"     : "120CC"
+            },
+            { "id"       : 3,
+             "name"     : "110CC"
+            },
+            { "id"       : 4,
+             "name"     : "130CC"
+            },
+            { "id"       : 5,
+             "name"     : "140CC"
+            },
+            { "id"       : 6,
+             "name"     : "160CC"
+            },
+            { "id"       : 7,
+             "name"     : "170CC"
+            },
+            { "id"       : 8,
+             "name"     : "170CC"
+            },
+            { "id"       : 9,
+             "name"     : "170CC"
+            }
+        ]
+}
+]
+}

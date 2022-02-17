@@ -1,0 +1,14 @@
+{
+  "name": "team",
+  "version": "1.0.1",
+  "description": "this API for team members",
+  "main": "index.js",
+  "scripts": {
+    "sayeed": "json-server --watch db.json --port 9090"
+  },
+  "author": "developer sayeed",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
